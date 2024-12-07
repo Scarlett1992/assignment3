@@ -10,7 +10,7 @@ const thankYouMessage = document.createElement('p');
 
 
 
-thankYouMessage.textContent = 'Thank you for your message';
+thankYouMessage.textContent = 'Thank you for your message!';
 thankYouMessage.style.fontSize = '24px';
 
 
